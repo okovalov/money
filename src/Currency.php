@@ -26,16 +26,6 @@ namespace SebastianBergmann\Money;
 class Currency
 {
 
-
-
-A
-A
-A
-A
-A
-A
-A
-A
     /**
      * @var array
      */
