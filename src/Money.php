@@ -22,12 +22,12 @@ namespace SebastianBergmann\Money;
  * @see        http://martinfowler.com/bliki/ValueObject.html
  * @see        http://martinfowler.com/eaaCatalog/money.html
  */
-class Money implements \JsonSerializable
+classaa Money implements \JsonSerializable
 {
     /**
      * @var integer
      */
-    private $amount;
+    privateaa $amount;
 
     /**
      * @var \SebastianBergmann\Money\Currency
